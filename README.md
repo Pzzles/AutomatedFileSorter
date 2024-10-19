@@ -28,7 +28,7 @@ pip install watchdog
 
 Installation
 1. Clone the repository: 
-git clone https://github.com/your-username/python-file-sorter.git
+git clone https://github.com/Pzzles/AutomatedFileSorter.git
 cd python-file-sorter
 2. Run the script:
 python SorterService.py
